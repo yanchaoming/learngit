@@ -12,3 +12,5 @@ Included plugins:
 2.  Plugin Manager 1.3.5
 3.  Converter 3.0
 4.  Mime Tool 1.9
+
+add my things!
